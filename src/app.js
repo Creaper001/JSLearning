@@ -1,0 +1,1 @@
+Board().addMany([TicTacToe]).runAll();
